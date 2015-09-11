@@ -74,7 +74,7 @@ There are many enumerators available to you in Ruby, below are just a few. Read 
 Here's how `.each` works:
 
 ```ruby
-cool_nums = [1, 2, 3]
+nums = [1, 2, 3]
 
 def change_nums(nums)
   nums.each do |x|
